@@ -1,5 +1,5 @@
 # EVA-S10
-Achieving 88% accuracy on testdata CIFAR10 dataset using LR finder and ReduceLROnPateau 
+Achieving 87% accuracy on testdata CIFAR10 dataset using LR finder and ReduceLROnPateau and plotting GradCAM on missclassified images
 
 Train Test accuracy
 
