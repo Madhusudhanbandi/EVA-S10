@@ -7,10 +7,9 @@ Train Test accuracy
 
 Missclassified images 
 
-![Misclas_images_s10](https://user-images.githubusercontent.com/19210895/77827181-333e8a80-713a-11ea-9959-c3bdc087d6fa.JPG)
+![miss_class_s10](https://user-images.githubusercontent.com/19210895/78055212-d395e880-73a0-11ea-95fb-e31108a33bb7.JPG)
 
 
 GradCAM missclassified images
-![Gradcam_imsclasified images](https://user-images.githubusercontent.com/19210895/77827153-05594600-713a-11ea-8a77-8d48dfcb2412.JPG)
-
+![grdcam_misclasified_imgs10](https://user-images.githubusercontent.com/19210895/78055136-b4975680-73a0-11ea-81fe-60707ad88877.JPG)
 
