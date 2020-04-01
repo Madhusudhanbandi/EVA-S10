@@ -1,15 +1,14 @@
 # EVA-S10
-Achieving 87% accuracy on testdata CIFAR10 dataset using LR finder and ReduceLROnPateau and plotting GradCAM on missclassified images
+Achieving 88% accuracy on testdata CIFAR10 dataset using LR finder and ReduceLROnPateau and plotting GradCAM on missclassified images
 
 Train Test accuracy
 
-![Train_test_acc_s10](https://user-images.githubusercontent.com/19210895/77450057-c0bb6b00-6e18-11ea-8351-1f9b4a18d079.JPG)
+![Train_Test_loss_Acc_s10](https://user-images.githubusercontent.com/19210895/78170301-60f43e00-7470-11ea-8708-707ec98bda8b.JPG)
 
 Missclassified images 
 
-![miss_class_s10](https://user-images.githubusercontent.com/19210895/78055212-d395e880-73a0-11ea-95fb-e31108a33bb7.JPG)
+![Miss_clasification_images_s10](https://user-images.githubusercontent.com/19210895/78170542-b892a980-7470-11ea-824c-e19d0fb83b84.JPG)
 
 
 GradCAM missclassified images
-![grdcam_misclasified_imgs10](https://user-images.githubusercontent.com/19210895/78055136-b4975680-73a0-11ea-81fe-60707ad88877.JPG)
-
+![Gradcam_misclass_s10](https://user-images.githubusercontent.com/19210895/78170458-9d279e80-7470-11ea-937e-af4984575786.JPG)
